@@ -138,4 +138,6 @@ so,what the fuck?Not expected.
   
   Such bad side effects
   make many 3rd-party modules like ngx_echo, ngx_lua and ngx_srcache choose to **Disable** the variable sharing behavior for subrequests by default
+- ngx_access 
+  ---
 
